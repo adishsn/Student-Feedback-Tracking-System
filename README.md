@@ -1,4 +1,4 @@
-# Student Feedback Tracking System
+# Student-Feedback-Tracking-System
 
 Description:
 This C program manages student feedback for courses using a singly linked list. It allows adding feedback, searching by course or student, calculating average ratings for a course, and displaying all feedback. Each feedback record contains Student ID, Course Code, Rating, and Comments.
